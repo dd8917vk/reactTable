@@ -12,6 +12,7 @@
     background-color:whitesmoke;
     justify-content: center;
     margin: 0 auto;
+    border-radius: 5px;
 }
 .mainTable {
     table-layout: fixed;
@@ -54,6 +55,9 @@
   border: 1px solid black;
   color: black;
   font-weight: bold;
+}
+ul.pagination {
+    margin-top: 20px;
 }
 ul.pagination li.active a {
   color: gray;
