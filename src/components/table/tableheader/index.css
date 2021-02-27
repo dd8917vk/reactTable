@@ -1,0 +1,62 @@
+.tableHeadRow {
+    background-color:white;
+}
+.tableRow {
+}
+
+th {
+    background-color:blue;
+}
+.tdCell {
+    color:green;
+    word-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    position:relative;
+    cursor: copy;
+}
+
+.tdCell .toolTip{
+    visibility: hidden;
+    width: 100%;
+    background-color:black;
+    color: whitesmoke;
+    text-align:center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left: 0;
+    font-size: 20px;
+}
+
+.tdCell:hover .toolTip {
+    visibility: visible;
+}
+
+
+
+
+/* .tdCell:hover {
+    text-overflow: ellipsis;
+} */
+
+/* .tooltipTrigger .toolTip {
+    visibility: hidden;
+}
+.tooltipTrigger:hover {
+    cursor:pointer;
+}
+.toolTipTrigger:hover .toolTip {
+    visibility: hidden;
+    display: block;
+    position: absolute;
+    border: 1px solid black;
+    word-wrap:break-all;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    text-align:center;
+    z-index:1;
+} */

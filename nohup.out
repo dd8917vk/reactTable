@@ -1,0 +1,55 @@
+(electron) Sending uncompressed crash reports is deprecated and will be removed in a future version of Electron. Set { compress: true } to opt-in to the new behavior. Crash reports will be uploaded gzipped, which most crash reporting servers support.
+[90m[main 2021-02-27T02:32:51.437Z][0m update#setState idle
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+(node:111452) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+(node:111515) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/vscode-sqlite3/build/Release/sqlite.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:111515) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/node-pty/build/Release/pty.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:111515) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+(node:111452) electron: The default of contextIsolation is deprecated and will be changing from false to true in a future release of Electron.  See https://github.com/electron/electron/issues/23506 for more information
+(node:111871) Electron: Loading non-context-aware native module in renderer: '/usr/share/code/resources/app/node_modules.asar.unpacked/spdlog/build/Release/spdlog.node'. This is deprecated, see https://github.com/electron/electron/issues/18397.
+[90m[main 2021-02-27T02:33:21.445Z][0m update#setState checking for updates
+[90m[main 2021-02-27T02:33:21.540Z][0m update#setState idle
+[111488:0226/212946.931516:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x29d79ddb7000] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+[90m[main 2021-02-27T03:33:21.452Z][0m update#setState checking for updates
+[90m[main 2021-02-27T03:33:21.818Z][0m update#setState idle
+[111488:0226/215747.529567:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x29d79ddb7000] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+[111488:0226/215835.371203:ERROR:gl_utils.cc(314)] [.RendererMainThread-0x29d79ddb7000] GL_INVALID_FRAMEBUFFER_OPERATION: Draw framebuffer is incomplete
+[90m[main 2021-02-27T04:33:21.461Z][0m update#setState checking for updates
+[90m[main 2021-02-27T04:33:21.820Z][0m update#setState idle
+[90m[main 2021-02-27T05:33:21.508Z][0m update#setState checking for updates
+[90m[main 2021-02-27T05:33:21.861Z][0m update#setState idle
+[90m[main 2021-02-27T06:33:21.549Z][0m update#setState checking for updates
+[90m[main 2021-02-27T06:33:21.889Z][0m update#setState idle
+[90m[main 2021-02-27T07:33:21.645Z][0m update#setState checking for updates
+[90m[main 2021-02-27T07:33:21.991Z][0m update#setState idle
+[90m[main 2021-02-27T08:33:21.709Z][0m update#setState checking for updates
+[90m[main 2021-02-27T08:33:22.056Z][0m update#setState idle
+[90m[main 2021-02-27T09:33:21.805Z][0m update#setState checking for updates
+[90m[main 2021-02-27T09:33:22.151Z][0m update#setState idle
+[90m[main 2021-02-27T10:33:21.851Z][0m update#setState checking for updates
+[90m[main 2021-02-27T10:33:22.214Z][0m update#setState idle
+[90m[main 2021-02-27T11:33:21.911Z][0m update#setState checking for updates
+[90m[main 2021-02-27T11:33:22.272Z][0m update#setState idle
+[90m[main 2021-02-27T12:33:21.941Z][0m update#setState checking for updates
+[90m[main 2021-02-27T12:33:22.316Z][0m update#setState idle
+[90m[main 2021-02-27T13:33:21.969Z][0m update#setState checking for updates
+[90m[main 2021-02-27T13:33:22.318Z][0m update#setState idle
+[90m[main 2021-02-27T14:33:22.050Z][0m update#setState checking for updates
+[90m[main 2021-02-27T14:33:22.387Z][0m update#setState idle
+[90m[main 2021-02-27T15:33:22.051Z][0m update#setState checking for updates
+[90m[main 2021-02-27T15:33:22.394Z][0m update#setState idle
+[90m[main 2021-02-27T16:33:22.061Z][0m update#setState checking for updates
+[90m[main 2021-02-27T16:33:22.402Z][0m update#setState idle
+[90m[main 2021-02-27T17:33:22.062Z][0m update#setState checking for updates
+[90m[main 2021-02-27T17:33:22.405Z][0m update#setState idle
+[90m[main 2021-02-27T18:33:22.069Z][0m update#setState checking for updates
+[90m[main 2021-02-27T18:33:22.416Z][0m update#setState idle
+[90m[main 2021-02-27T19:33:22.097Z][0m update#setState checking for updates
+[90m[main 2021-02-27T19:33:22.461Z][0m update#setState idle
+[90m[main 2021-02-27T20:33:22.147Z][0m update#setState checking for updates
+[90m[main 2021-02-27T20:33:22.493Z][0m update#setState idle
+[90m[main 2021-02-27T21:33:22.221Z][0m update#setState checking for updates
+[90m[main 2021-02-27T21:33:22.568Z][0m update#setState idle
+[90m[main 2021-02-27T22:33:22.248Z][0m update#setState checking for updates
+[90m[main 2021-02-27T22:33:22.593Z][0m update#setState idle
