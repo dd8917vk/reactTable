@@ -5,10 +5,10 @@
 }
 
 th {
-    background-color:blue;
+    background-color:gray;
 }
 .tdCell {
-    color:green;
+    color:black;
     word-wrap: break-word;
     white-space: nowrap;
     overflow: hidden;
